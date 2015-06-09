@@ -1,7 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%
-% Anton Ridgway, Fall 2013
-% Pascal Compiler
-%%%%%%%%%%%%%%%%%%%%%%
+% Anton Ridgway, Fall 2013, Pascal Compiler %
 
 This project is the front-end Pascal compiler for the simplified version of the language used in the Compilers course at the University of Tulsa (CS4013).
 
