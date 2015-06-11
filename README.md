@@ -1,6 +1,5 @@
 Pascal Compiler
 ===============
-Anton Ridgway, Fall 2013
 
 This project is the front-end of a Pascal compiler, designed for a simplified version of the language. It consists of two main components, a lexical analyzer (lexical.c) that breaks up a source file into tokens, and a parser (parser.c) that leverages a decorated parse tree to understand the tokens and assign identifiers memory addresses. These are designed to be compiled as separate executables, and run in sequence. Together, they are able to identify any lexical, syntax, or semantic errors present in the source code. Example source code is included in the /src folder, and a build of the executables with the output for example.pas is included in the /build folder.
 
